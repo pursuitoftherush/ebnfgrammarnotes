@@ -1,6 +1,6 @@
 EBNF Grammar condensed
 
-COPYRIGNT (C) 2014 pursuitoftherush
+COPYRIGHT (C) 2014 pursuitoftherush
 
 EBNF means Extended Backus-Naur Form.
 An EBNF description is an unordered list of EBNF rules.
